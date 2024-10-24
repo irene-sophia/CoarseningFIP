@@ -1,0 +1,1420 @@
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:pool started with 48 workers
+INFO:EMA.ema_workbench.em_framework.optimization:pruning: {city}
+INFO:Platypus:SingleObjectiveBorgWithArchive starting
+INFO:platypus.core:0.28836364950984716: 100
+INFO:platypus.core:0.4747639801353216: 250
+INFO:platypus.core:0.5102756638079882: 394
+INFO:platypus.core:0.3171076262369752: 535
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 535, Elapsed Time: 0:00:01.812692
+INFO:platypus.core:0.25073312036693096: 678
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 678, Elapsed Time: 0:00:02.113460
+INFO:platypus.core:0.23150248266756535: 823
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 823, Elapsed Time: 0:00:02.496084
+INFO:platypus.core:0.30282795522361994: 971
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 971, Elapsed Time: 0:00:02.822802
+INFO:platypus.core:0.22053872421383858: 1118
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1118, Elapsed Time: 0:00:03.057696
+INFO:platypus.core:0.2294531064108014: 1267
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1267, Elapsed Time: 0:00:03.302237
+INFO:platypus.core:0.23061211965978146: 1413
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1413, Elapsed Time: 0:00:03.546218
+INFO:platypus.core:0.21070528123527765: 1560
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1560, Elapsed Time: 0:00:03.771451
+INFO:platypus.core:0.21303447522222996: 1704
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1704, Elapsed Time: 0:00:03.999195
+INFO:platypus.core:0.22183400858193636: 1849
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1849, Elapsed Time: 0:00:04.236626
+INFO:platypus.core:0.27009203378111124: 1992
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1992, Elapsed Time: 0:00:04.521020
+INFO:platypus.core:0.21531342715024948: 2139
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2139, Elapsed Time: 0:00:04.750271
+INFO:platypus.core:0.21541098225861788: 2288
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2288, Elapsed Time: 0:00:04.981176
+INFO:platypus.core:0.2126935040578246: 2434
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2434, Elapsed Time: 0:00:05.207562
+INFO:platypus.core:0.21277721039950848: 2579
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2579, Elapsed Time: 0:00:05.434503
+INFO:platypus.core:0.21282145660370588: 2724
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2724, Elapsed Time: 0:00:05.661281
+INFO:platypus.core:0.2134854020550847: 2868
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2868, Elapsed Time: 0:00:05.888550
+INFO:platypus.core:0.2174401395022869: 3014
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3014, Elapsed Time: 0:00:06.119722
+INFO:platypus.core:0.21389832999557257: 3161
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3161, Elapsed Time: 0:00:06.348212
+INFO:platypus.core:0.2342822439968586: 3308
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3308, Elapsed Time: 0:00:06.596974
+INFO:platypus.core:0.22926703561097383: 3452
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3452, Elapsed Time: 0:00:06.840031
+INFO:platypus.core:0.20365764386951923: 3597
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3597, Elapsed Time: 0:00:07.058138
+INFO:platypus.core:0.2060834765434265: 3744
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3744, Elapsed Time: 0:00:07.278809
+INFO:platypus.core:0.20993447955697775: 3887
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3887, Elapsed Time: 0:00:07.502682
+INFO:platypus.core:0.22378935758024454: 4036
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4036, Elapsed Time: 0:00:07.740944
+INFO:platypus.core:0.21016238536685705: 4179
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4179, Elapsed Time: 0:00:07.964767
+INFO:platypus.core:0.21251180209219456: 4326
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4326, Elapsed Time: 0:00:08.191061
+INFO:platypus.core:0.20811810716986656: 4469
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4469, Elapsed Time: 0:00:08.414126
+INFO:platypus.core:0.23434426356106997: 4619
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4619, Elapsed Time: 0:00:08.662556
+INFO:platypus.core:0.21299391239881516: 4765
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4765, Elapsed Time: 0:00:08.889949
+INFO:platypus.core:0.2525708442553878: 4909
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4909, Elapsed Time: 0:00:09.157207
+INFO:platypus.core:0.21147818304598331: 5056
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5056, Elapsed Time: 0:00:09.382817
+INFO:platypus.core:0.21422524191439152: 5199
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5199, Elapsed Time: 0:00:09.612767
+INFO:platypus.core:0.21102148294448853: 5342
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5342, Elapsed Time: 0:00:09.838255
+INFO:platypus.core:0.21150449942797422: 5488
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5488, Elapsed Time: 0:00:10.065588
+INFO:platypus.core:0.24358072131872177: 5634
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5634, Elapsed Time: 0:00:10.323194
+INFO:platypus.core:0.19926501158624887: 5778
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5778, Elapsed Time: 0:00:10.536164
+INFO:platypus.core:0.20189792104065418: 5920
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5920, Elapsed Time: 0:00:10.752331
+INFO:platypus.core:0.21388393454253674: 6066
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6066, Elapsed Time: 0:00:10.979911
+INFO:platypus.core:0.2119444077834487: 6211
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6211, Elapsed Time: 0:00:11.207549
+INFO:platypus.core:0.21022133994847536: 6355
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6355, Elapsed Time: 0:00:11.431463
+INFO:platypus.core:0.21134669240564108: 6502
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6502, Elapsed Time: 0:00:11.656867
+INFO:platypus.core:0.20896608289331198: 6648
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6648, Elapsed Time: 0:00:11.880747
+INFO:platypus.core:0.19595805276185274: 6788
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6788, Elapsed Time: 0:00:12.091827
+INFO:platypus.core:0.21019688807427883: 6934
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6934, Elapsed Time: 0:00:12.317158
+INFO:platypus.core:0.21038892772048712: 7079
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7079, Elapsed Time: 0:00:12.541784
+INFO:platypus.core:0.21858045365661383: 7224
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7224, Elapsed Time: 0:00:12.774088
+INFO:platypus.core:0.29678612761199474: 7368
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7368, Elapsed Time: 0:00:13.084720
+INFO:platypus.core:0.19264039304107428: 7507
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7507, Elapsed Time: 0:00:13.291103
+INFO:platypus.core:0.21523261908441782: 7651
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7651, Elapsed Time: 0:00:13.586818
+INFO:platypus.core:0.20583969540894032: 7792
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7792, Elapsed Time: 0:00:13.806365
+INFO:platypus.core:0.20934411976486444: 7934
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7934, Elapsed Time: 0:00:14.028692
+INFO:platypus.core:0.21234089694917202: 8083
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8083, Elapsed Time: 0:00:14.255948
+INFO:platypus.core:0.21752940397709608: 8232
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8232, Elapsed Time: 0:00:14.487822
+INFO:platypus.core:0.21359631326049566: 8377
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8377, Elapsed Time: 0:00:14.716122
+INFO:platypus.core:0.21303191594779491: 8523
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8523, Elapsed Time: 0:00:14.944623
+INFO:platypus.core:0.213550740852952: 8669
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8669, Elapsed Time: 0:00:15.170943
+INFO:platypus.core:0.21281059831380844: 8816
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8816, Elapsed Time: 0:00:15.398222
+INFO:platypus.core:0.20990237686783075: 8961
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8961, Elapsed Time: 0:00:15.622437
+INFO:platypus.core:0.21586195565760136: 9110
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9110, Elapsed Time: 0:00:15.851668
+INFO:platypus.core:0.235836211591959: 9253
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9253, Elapsed Time: 0:00:16.101632
+INFO:platypus.core:0.21089343260973692: 9397
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9397, Elapsed Time: 0:00:16.326708
+INFO:platypus.core:0.21946374140679836: 9536
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9536, Elapsed Time: 0:00:16.560342
+INFO:platypus.core:0.21143971476703882: 9683
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9683, Elapsed Time: 0:00:16.785131
+INFO:platypus.core:0.22475820034742355: 9824
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9824, Elapsed Time: 0:00:17.023656
+INFO:platypus.core:0.2116168448701501: 9967
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9967, Elapsed Time: 0:00:17.249398
+INFO:platypus.core:0.2206881744787097: 10116
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 10116, Elapsed Time: 0:00:17.485404
+INFO:Platypus:SingleObjectiveBorgWithArchive finished; Total NFE: 10116, Elapsed Time: 0:00:17.485599
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:terminating pool
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:pool started with 48 workers
+INFO:EMA.ema_workbench.em_framework.optimization:pruning: {city}
+INFO:Platypus:SingleObjectiveBorgWithArchive starting
+INFO:platypus.core:0.3307725600898266: 100
+INFO:platypus.core:0.3904974218457937: 242
+INFO:platypus.core:0.4046230036765337: 387
+INFO:platypus.core:0.6023678267374635: 529
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 529, Elapsed Time: 0:00:01.778837
+INFO:platypus.core:0.5586068509146571: 675
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 675, Elapsed Time: 0:00:02.353602
+INFO:platypus.core:0.43415920063853264: 822
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 822, Elapsed Time: 0:00:02.805038
+INFO:platypus.core:0.3888749098405242: 966
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 966, Elapsed Time: 0:00:03.210643
+INFO:platypus.core:0.42296900879591703: 1111
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1111, Elapsed Time: 0:00:03.651316
+INFO:platypus.core:0.4507286176085472: 1255
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1255, Elapsed Time: 0:00:04.118070
+INFO:platypus.core:0.43164257798343897: 1400
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1400, Elapsed Time: 0:00:04.567055
+INFO:platypus.core:0.5146448640152812: 1548
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1548, Elapsed Time: 0:00:05.101121
+INFO:platypus.core:0.48804987128823996: 1690
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1690, Elapsed Time: 0:00:05.603295
+INFO:platypus.core:0.49587407894432545: 1839
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1839, Elapsed Time: 0:00:06.115504
+INFO:platypus.core:0.46311745792627335: 1984
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1984, Elapsed Time: 0:00:06.595705
+INFO:platypus.core:0.4295942559838295: 2129
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2129, Elapsed Time: 0:00:07.043004
+INFO:platypus.core:0.4531851885840297: 2274
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2274, Elapsed Time: 0:00:07.512431
+INFO:platypus.core:0.4662693813443184: 2418
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2418, Elapsed Time: 0:00:07.994955
+INFO:platypus.core:0.503872012719512: 2563
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2563, Elapsed Time: 0:00:08.515084
+INFO:platypus.core:0.45655137579888105: 2710
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2710, Elapsed Time: 0:00:08.988271
+INFO:platypus.core:0.4350030981004238: 2854
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2854, Elapsed Time: 0:00:09.440504
+INFO:platypus.core:0.4488636767491698: 2999
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2999, Elapsed Time: 0:00:09.906695
+INFO:platypus.core:0.5263765696436167: 3150
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3150, Elapsed Time: 0:00:10.451403
+INFO:platypus.core:0.5405518831685185: 3285
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3285, Elapsed Time: 0:00:11.008920
+INFO:platypus.core:0.49255876056849957: 3433
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3433, Elapsed Time: 0:00:11.518370
+INFO:platypus.core:0.5948168868198991: 3579
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3579, Elapsed Time: 0:00:12.130356
+INFO:platypus.core:0.42778483033180237: 3723
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3723, Elapsed Time: 0:00:12.574548
+INFO:platypus.core:0.490320410579443: 3869
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3869, Elapsed Time: 0:00:13.083251
+INFO:platypus.core:0.466595851816237: 4014
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4014, Elapsed Time: 0:00:13.567003
+INFO:platypus.core:0.4601973192766309: 4158
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4158, Elapsed Time: 0:00:14.044028
+INFO:platypus.core:0.45190482772886753: 4303
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4303, Elapsed Time: 0:00:14.513530
+INFO:platypus.core:0.4226234406232834: 4446
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4446, Elapsed Time: 0:00:14.953814
+INFO:platypus.core:0.48471715208142996: 4592
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4592, Elapsed Time: 0:00:15.456162
+INFO:platypus.core:0.5083665363490582: 4740
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4740, Elapsed Time: 0:00:15.981856
+INFO:platypus.core:0.4590569594874978: 4884
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4884, Elapsed Time: 0:00:16.457921
+INFO:platypus.core:0.43482742831110954: 5029
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5029, Elapsed Time: 0:00:16.911040
+INFO:platypus.core:0.4339922098442912: 5172
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5172, Elapsed Time: 0:00:17.363326
+INFO:platypus.core:0.48500653356313705: 5318
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5318, Elapsed Time: 0:00:17.865678
+INFO:platypus.core:0.48388039600104094: 5464
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5464, Elapsed Time: 0:00:18.366425
+INFO:platypus.core:0.46082836017012596: 5613
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5613, Elapsed Time: 0:00:18.843952
+INFO:platypus.core:0.45978252217173576: 5755
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5755, Elapsed Time: 0:00:19.319064
+INFO:platypus.core:0.42350177839398384: 5901
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5901, Elapsed Time: 0:00:19.760063
+INFO:platypus.core:0.4774919496849179: 6042
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6042, Elapsed Time: 0:00:20.255507
+INFO:platypus.core:0.4133510868996382: 6189
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6189, Elapsed Time: 0:00:20.685761
+INFO:platypus.core:0.4281639624387026: 6337
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6337, Elapsed Time: 0:00:21.132425
+INFO:platypus.core:0.4737203298136592: 6483
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6483, Elapsed Time: 0:00:21.623505
+INFO:platypus.core:0.48264459520578384: 6627
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6627, Elapsed Time: 0:00:22.124624
+INFO:platypus.core:0.4779994199052453: 6772
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6772, Elapsed Time: 0:00:22.618420
+INFO:platypus.core:0.4165261723101139: 6913
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6913, Elapsed Time: 0:00:23.051009
+INFO:platypus.core:0.4236322669312358: 7061
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7061, Elapsed Time: 0:00:23.493220
+INFO:platypus.core:0.4785923892632127: 7210
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7210, Elapsed Time: 0:00:23.989851
+INFO:platypus.core:0.4677556324750185: 7356
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7356, Elapsed Time: 0:00:24.476338
+INFO:platypus.core:0.46403291542083025: 7499
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7499, Elapsed Time: 0:00:24.958014
+INFO:platypus.core:0.4261529026553035: 7642
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7642, Elapsed Time: 0:00:25.401011
+INFO:platypus.core:0.427547849714756: 7788
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7788, Elapsed Time: 0:00:25.845671
+INFO:platypus.core:0.41111491713672876: 7930
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7930, Elapsed Time: 0:00:26.272622
+INFO:platypus.core:0.4175649378448725: 8073
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8073, Elapsed Time: 0:00:26.707239
+INFO:platypus.core:0.4833564097061753: 8223
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8223, Elapsed Time: 0:00:27.209557
+INFO:platypus.core:0.4618079699575901: 8367
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8367, Elapsed Time: 0:00:27.687704
+INFO:platypus.core:0.4236175986006856: 8512
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8512, Elapsed Time: 0:00:28.130016
+INFO:platypus.core:0.4640964474529028: 8655
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8655, Elapsed Time: 0:00:28.610503
+INFO:platypus.core:0.4802045188844204: 8800
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8800, Elapsed Time: 0:00:29.106851
+INFO:platypus.core:0.4191205408424139: 8942
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8942, Elapsed Time: 0:00:29.542120
+INFO:platypus.core:0.4234030516818166: 9089
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9089, Elapsed Time: 0:00:29.983119
+INFO:platypus.core:0.4893035925924778: 9234
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9234, Elapsed Time: 0:00:30.488726
+INFO:platypus.core:0.4464393677189946: 9378
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9378, Elapsed Time: 0:00:30.951873
+INFO:platypus.core:0.4137701401486993: 9520
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9520, Elapsed Time: 0:00:31.381595
+INFO:platypus.core:0.4136421661823988: 9665
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9665, Elapsed Time: 0:00:31.811413
+INFO:platypus.core:0.4284303020685911: 9810
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9810, Elapsed Time: 0:00:32.257308
+INFO:platypus.core:0.4238468036055565: 9957
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9957, Elapsed Time: 0:00:32.698435
+INFO:platypus.core:0.4756867550313473: 10102
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 10102, Elapsed Time: 0:00:33.190299
+INFO:Platypus:SingleObjectiveBorgWithArchive finished; Total NFE: 10102, Elapsed Time: 0:00:33.190493
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:terminating pool
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:pool started with 48 workers
+INFO:EMA.ema_workbench.em_framework.optimization:pruning: {city}
+INFO:Platypus:SingleObjectiveBorgWithArchive starting
+INFO:platypus.core:0.5087237386032939: 100
+INFO:platypus.core:0.7040845165029168: 246
+INFO:platypus.core:0.7746195374056697: 391
+INFO:platypus.core:0.658473277464509: 537
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 537, Elapsed Time: 0:00:02.698337
+INFO:platypus.core:0.8219604985788465: 682
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 682, Elapsed Time: 0:00:03.536950
+INFO:platypus.core:0.9458418693393469: 825
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 825, Elapsed Time: 0:00:04.498941
+INFO:platypus.core:0.7080240966752172: 969
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 969, Elapsed Time: 0:00:05.223088
+INFO:platypus.core:0.7708910051733255: 1115
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1115, Elapsed Time: 0:00:06.010232
+INFO:platypus.core:0.8512413594871759: 1257
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1257, Elapsed Time: 0:00:06.877591
+INFO:platypus.core:0.6985215255990624: 1404
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1404, Elapsed Time: 0:00:07.593415
+INFO:platypus.core:0.6689586723223329: 1550
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1550, Elapsed Time: 0:00:08.278084
+INFO:platypus.core:0.7563289050012827: 1696
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1696, Elapsed Time: 0:00:09.051621
+INFO:platypus.core:0.7728653363883495: 1843
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1843, Elapsed Time: 0:00:09.842250
+INFO:platypus.core:0.6927125612273812: 1986
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1986, Elapsed Time: 0:00:10.554890
+INFO:platypus.core:0.725438873283565: 2133
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2133, Elapsed Time: 0:00:11.298465
+INFO:platypus.core:0.7845418117940426: 2280
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2280, Elapsed Time: 0:00:12.099166
+INFO:platypus.core:0.7104221358895302: 2425
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2425, Elapsed Time: 0:00:12.825309
+INFO:platypus.core:0.6389980232343078: 2563
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2563, Elapsed Time: 0:00:13.479283
+INFO:platypus.core:0.6535872779786587: 2701
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2701, Elapsed Time: 0:00:14.149776
+INFO:platypus.core:0.6737119350582361: 2845
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2845, Elapsed Time: 0:00:14.839896
+INFO:platypus.core:0.6745752012357116: 2991
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2991, Elapsed Time: 0:00:15.531579
+INFO:platypus.core:0.7072789575904608: 3135
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3135, Elapsed Time: 0:00:16.255363
+INFO:platypus.core:0.7112343618646264: 3283
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3283, Elapsed Time: 0:00:16.984029
+INFO:platypus.core:0.6782595179975033: 3430
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3430, Elapsed Time: 0:00:17.679302
+INFO:platypus.core:0.717064687050879: 3571
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3571, Elapsed Time: 0:00:18.413249
+INFO:platypus.core:0.7747552050277591: 3717
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3717, Elapsed Time: 0:00:19.205561
+INFO:platypus.core:0.6572278589010239: 3861
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3861, Elapsed Time: 0:00:19.880173
+INFO:platypus.core:0.6884786719456315: 4009
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4009, Elapsed Time: 0:00:20.586452
+INFO:platypus.core:0.739814474247396: 4151
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4151, Elapsed Time: 0:00:21.342814
+INFO:platypus.core:0.6823661215603352: 4297
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4297, Elapsed Time: 0:00:22.042774
+INFO:platypus.core:0.6615946730598807: 4441
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4441, Elapsed Time: 0:00:22.720965
+INFO:platypus.core:0.7454629959538579: 4586
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4586, Elapsed Time: 0:00:23.481427
+INFO:platypus.core:0.7615200011059642: 4732
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4732, Elapsed Time: 0:00:24.261055
+INFO:platypus.core:0.6707049338147044: 4874
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4874, Elapsed Time: 0:00:24.949499
+INFO:platypus.core:0.7000569496303797: 5020
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5020, Elapsed Time: 0:00:25.667292
+INFO:platypus.core:0.7480442672967911: 5164
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5164, Elapsed Time: 0:00:26.431146
+INFO:platypus.core:0.6952259093523026: 5310
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5310, Elapsed Time: 0:00:27.142891
+INFO:platypus.core:0.6724869981408119: 5454
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5454, Elapsed Time: 0:00:27.832928
+INFO:platypus.core:0.7384445015341043: 5600
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5600, Elapsed Time: 0:00:28.588298
+INFO:platypus.core:0.6914392579346895: 5746
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5746, Elapsed Time: 0:00:29.295126
+INFO:platypus.core:0.6707682469859719: 5888
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5888, Elapsed Time: 0:00:29.980926
+INFO:platypus.core:0.7676312765106559: 6033
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6033, Elapsed Time: 0:00:30.765589
+INFO:platypus.core:0.7473236210644245: 6178
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6178, Elapsed Time: 0:00:31.530016
+INFO:platypus.core:0.6802661595866084: 6325
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6325, Elapsed Time: 0:00:32.226677
+INFO:platypus.core:0.6791409002617002: 6469
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6469, Elapsed Time: 0:00:32.921489
+INFO:platypus.core:0.7527576331049204: 6614
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6614, Elapsed Time: 0:00:33.688539
+INFO:platypus.core:0.6780140772461891: 6761
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6761, Elapsed Time: 0:00:34.383016
+INFO:platypus.core:0.6817867560312152: 6904
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6904, Elapsed Time: 0:00:35.079939
+INFO:platypus.core:0.7224600594490767: 7050
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7050, Elapsed Time: 0:00:35.818323
+INFO:platypus.core:0.6670844377949834: 7193
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7193, Elapsed Time: 0:00:36.501940
+INFO:platypus.core:0.6845449842512608: 7341
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7341, Elapsed Time: 0:00:37.201202
+INFO:platypus.core:0.6575155202299356: 7486
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7486, Elapsed Time: 0:00:37.875833
+INFO:platypus.core:0.7635400388389826: 7632
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7632, Elapsed Time: 0:00:38.657510
+INFO:platypus.core:0.7530740173533559: 7777
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7777, Elapsed Time: 0:00:39.427745
+INFO:platypus.core:0.6973264869302511: 7921
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7921, Elapsed Time: 0:00:40.142177
+INFO:platypus.core:0.7453526463359594: 8065
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8065, Elapsed Time: 0:00:40.905305
+INFO:platypus.core:0.6659398134797812: 8208
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8208, Elapsed Time: 0:00:41.587307
+INFO:platypus.core:0.6335951527580619: 8348
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8348, Elapsed Time: 0:00:42.238313
+INFO:platypus.core:0.749700216576457: 8496
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8496, Elapsed Time: 0:00:43.004265
+INFO:platypus.core:0.6481194570660591: 8638
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8638, Elapsed Time: 0:00:43.670142
+INFO:platypus.core:0.7604063292965293: 8784
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8784, Elapsed Time: 0:00:44.450030
+INFO:platypus.core:0.6660412373021245: 8927
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8927, Elapsed Time: 0:00:45.132910
+INFO:platypus.core:0.6866168333217502: 9073
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9073, Elapsed Time: 0:00:45.836316
+INFO:platypus.core:0.7368232002481818: 9222
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9222, Elapsed Time: 0:00:46.591054
+INFO:platypus.core:0.7464428134262562: 9368
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9368, Elapsed Time: 0:00:47.359040
+INFO:platypus.core:0.7411178248003125: 9514
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9514, Elapsed Time: 0:00:48.116878
+INFO:platypus.core:0.7543037878349423: 9660
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9660, Elapsed Time: 0:00:48.888773
+INFO:platypus.core:0.7373065017163754: 9806
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9806, Elapsed Time: 0:00:49.643952
+INFO:platypus.core:0.765260361135006: 9951
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9951, Elapsed Time: 0:00:50.427495
+INFO:platypus.core:0.6354828029870987: 10093
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 10093, Elapsed Time: 0:00:51.078592
+INFO:Platypus:SingleObjectiveBorgWithArchive finished; Total NFE: 10093, Elapsed Time: 0:00:51.078740
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:terminating pool
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:pool started with 48 workers
+INFO:EMA.ema_workbench.em_framework.optimization:pruning: {city}
+INFO:Platypus:SingleObjectiveBorgWithArchive starting
+INFO:platypus.core:0.33497385680675507: 100
+INFO:platypus.core:0.4485581601038575: 245
+INFO:platypus.core:0.4777540974318981: 391
+INFO:platypus.core:0.41677966341376305: 534
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 534, Elapsed Time: 0:00:01.728251
+INFO:platypus.core:0.5651400750502944: 678
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 678, Elapsed Time: 0:00:02.308878
+INFO:platypus.core:0.6019942127168179: 823
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 823, Elapsed Time: 0:00:02.927487
+INFO:platypus.core:0.6697257375344634: 969
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 969, Elapsed Time: 0:00:03.614577
+INFO:platypus.core:0.5127549842000008: 1114
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1114, Elapsed Time: 0:00:04.143357
+INFO:platypus.core:0.4812674717977643: 1258
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1258, Elapsed Time: 0:00:04.640846
+INFO:platypus.core:0.4497835086658597: 1404
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1404, Elapsed Time: 0:00:05.108036
+INFO:platypus.core:0.45249628089368343: 1550
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1550, Elapsed Time: 0:00:05.577774
+INFO:platypus.core:0.46457733027637005: 1695
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1695, Elapsed Time: 0:00:06.058598
+INFO:platypus.core:0.48802357260137796: 1845
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1845, Elapsed Time: 0:00:06.564408
+INFO:platypus.core:0.48185357730835676: 1992
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1992, Elapsed Time: 0:00:07.065496
+INFO:platypus.core:0.49973517656326294: 2137
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2137, Elapsed Time: 0:00:07.582625
+INFO:platypus.core:0.5023675039410591: 2282
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2282, Elapsed Time: 0:00:08.103106
+INFO:platypus.core:0.48792902659624815: 2429
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2429, Elapsed Time: 0:00:08.606851
+INFO:platypus.core:0.5130994934588671: 2579
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2579, Elapsed Time: 0:00:09.136647
+INFO:platypus.core:0.4882957572117448: 2722
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2722, Elapsed Time: 0:00:09.641923
+INFO:platypus.core:0.44365760684013367: 2868
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2868, Elapsed Time: 0:00:10.100987
+INFO:platypus.core:0.49940420873463154: 3014
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3014, Elapsed Time: 0:00:10.615972
+INFO:platypus.core:0.5074340868741274: 3161
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3161, Elapsed Time: 0:00:11.140689
+INFO:platypus.core:0.4995815735310316: 3304
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3304, Elapsed Time: 0:00:11.658144
+INFO:platypus.core:0.47236586548388004: 3446
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3446, Elapsed Time: 0:00:12.146520
+INFO:platypus.core:0.49159360490739346: 3591
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3591, Elapsed Time: 0:00:12.656209
+INFO:platypus.core:0.5089408895000815: 3738
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3738, Elapsed Time: 0:00:13.182424
+INFO:platypus.core:0.46664989925920963: 3883
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3883, Elapsed Time: 0:00:13.665106
+INFO:platypus.core:0.5120308725163341: 4029
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4029, Elapsed Time: 0:00:14.197245
+INFO:platypus.core:0.5308785010129213: 4173
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4173, Elapsed Time: 0:00:14.746997
+INFO:platypus.core:0.5704656643792987: 4313
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4313, Elapsed Time: 0:00:15.333281
+INFO:platypus.core:0.6025673327967525: 4459
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4459, Elapsed Time: 0:00:15.954674
+INFO:platypus.core:0.621729345060885: 4605
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4605, Elapsed Time: 0:00:16.593968
+INFO:platypus.core:0.5809362195432186: 4747
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4747, Elapsed Time: 0:00:17.192961
+INFO:platypus.core:0.5461343806236982: 4894
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4894, Elapsed Time: 0:00:17.756024
+INFO:platypus.core:0.48002238664776087: 5041
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5041, Elapsed Time: 0:00:18.251150
+INFO:platypus.core:0.4784339601173997: 5183
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5183, Elapsed Time: 0:00:18.747756
+INFO:platypus.core:0.5433401251211762: 5327
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5327, Elapsed Time: 0:00:19.307626
+INFO:platypus.core:0.5346542662009597: 5473
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5473, Elapsed Time: 0:00:19.858744
+INFO:platypus.core:0.4591499613597989: 5617
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5617, Elapsed Time: 0:00:20.334255
+INFO:platypus.core:0.4953133389353752: 5761
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5761, Elapsed Time: 0:00:20.848151
+INFO:platypus.core:0.5021149134263396: 5906
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5906, Elapsed Time: 0:00:21.366744
+INFO:platypus.core:0.5114316157996655: 6051
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6051, Elapsed Time: 0:00:21.895594
+INFO:platypus.core:0.5163286179304123: 6194
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6194, Elapsed Time: 0:00:22.430777
+INFO:platypus.core:0.5225501582026482: 6341
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6341, Elapsed Time: 0:00:22.969981
+INFO:platypus.core:0.5167698049917817: 6483
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6483, Elapsed Time: 0:00:23.504333
+INFO:platypus.core:0.4960050778463483: 6626
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6626, Elapsed Time: 0:00:24.017280
+INFO:platypus.core:0.4355936050415039: 6769
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6769, Elapsed Time: 0:00:24.468356
+INFO:platypus.core:0.5257670860737562: 6915
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6915, Elapsed Time: 0:00:25.012080
+INFO:platypus.core:0.4624128006398678: 7062
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7062, Elapsed Time: 0:00:25.493072
+INFO:platypus.core:0.44875019881874323: 7206
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7206, Elapsed Time: 0:00:25.959677
+INFO:platypus.core:0.5149506740272045: 7354
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7354, Elapsed Time: 0:00:26.491311
+INFO:platypus.core:0.4997445624321699: 7498
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7498, Elapsed Time: 0:00:27.007511
+INFO:platypus.core:0.45959388464689255: 7639
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7639, Elapsed Time: 0:00:27.483225
+INFO:platypus.core:0.47282460425049067: 7784
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7784, Elapsed Time: 0:00:27.974987
+INFO:platypus.core:0.4823595369234681: 7926
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7926, Elapsed Time: 0:00:28.473806
+INFO:platypus.core:0.4840228697285056: 8073
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8073, Elapsed Time: 0:00:28.974545
+INFO:platypus.core:0.5156673081219196: 8218
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8218, Elapsed Time: 0:00:29.506731
+INFO:platypus.core:0.42347464617341757: 8363
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8363, Elapsed Time: 0:00:29.948211
+INFO:platypus.core:0.4582977620884776: 8510
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8510, Elapsed Time: 0:00:30.423481
+INFO:platypus.core:0.4362798873335123: 8652
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8652, Elapsed Time: 0:00:30.877961
+INFO:platypus.core:0.5023271655663848: 8800
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8800, Elapsed Time: 0:00:31.397761
+INFO:platypus.core:0.474194910377264: 8944
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8944, Elapsed Time: 0:00:31.889822
+INFO:platypus.core:0.4256905559450388: 9087
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9087, Elapsed Time: 0:00:32.451395
+INFO:platypus.core:0.5002865931019187: 9236
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9236, Elapsed Time: 0:00:32.969198
+INFO:platypus.core:0.4873323570936918: 9378
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9378, Elapsed Time: 0:00:33.472809
+INFO:platypus.core:0.4291656380519271: 9522
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9522, Elapsed Time: 0:00:33.918124
+INFO:platypus.core:0.5145292524248362: 9667
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9667, Elapsed Time: 0:00:34.450086
+INFO:platypus.core:0.46129004284739494: 9810
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9810, Elapsed Time: 0:00:34.929044
+INFO:platypus.core:0.41207208577543497: 9947
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9947, Elapsed Time: 0:00:35.358167
+INFO:platypus.core:0.44324142672121525: 10096
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 10096, Elapsed Time: 0:00:35.818475
+INFO:Platypus:SingleObjectiveBorgWithArchive finished; Total NFE: 10096, Elapsed Time: 0:00:35.818614
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:terminating pool
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:pool started with 48 workers
+INFO:EMA.ema_workbench.em_framework.optimization:pruning: {city}
+INFO:Platypus:SingleObjectiveBorgWithArchive starting
+INFO:platypus.core:1.1723015308380127: 100
+INFO:platypus.core:1.444800816476345: 243
+INFO:platypus.core:1.8516016341745853: 389
+INFO:platypus.core:1.6975846709683537: 536
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 536, Elapsed Time: 0:00:06.220771
+INFO:platypus.core:1.6796535588800907: 680
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 680, Elapsed Time: 0:00:07.918052
+INFO:platypus.core:1.6982253137975931: 824
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 824, Elapsed Time: 0:00:09.631429
+INFO:platypus.core:1.7840234581381083: 970
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 970, Elapsed Time: 0:00:11.432720
+INFO:platypus.core:1.6503260470926762: 1114
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1114, Elapsed Time: 0:00:13.098744
+INFO:platypus.core:1.6733891246840358: 1258
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1258, Elapsed Time: 0:00:14.789366
+INFO:platypus.core:1.8195805009454489: 1407
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1407, Elapsed Time: 0:00:16.626636
+INFO:platypus.core:1.7976326728239655: 1556
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1556, Elapsed Time: 0:00:18.441216
+INFO:platypus.core:1.6613938743248582: 1699
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1699, Elapsed Time: 0:00:20.120298
+INFO:platypus.core:1.6668641585856676: 1844
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1844, Elapsed Time: 0:00:21.806507
+INFO:platypus.core:1.733999777585268: 1990
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1990, Elapsed Time: 0:00:23.559513
+INFO:platypus.core:1.7021866496652365: 2134
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2134, Elapsed Time: 0:00:25.276883
+INFO:platypus.core:1.7263886537402868: 2279
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2279, Elapsed Time: 0:00:27.020089
+INFO:platypus.core:1.7338131126016378: 2422
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2422, Elapsed Time: 0:00:28.771756
+INFO:platypus.core:1.6934327958151698: 2566
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2566, Elapsed Time: 0:00:30.482264
+INFO:platypus.core:1.716228206641972: 2712
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2712, Elapsed Time: 0:00:32.215394
+INFO:platypus.core:1.6431215414777398: 2854
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2854, Elapsed Time: 0:00:33.875926
+INFO:platypus.core:1.7469264855608344: 3003
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3003, Elapsed Time: 0:00:35.641609
+INFO:platypus.core:1.6494077639654279: 3143
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3143, Elapsed Time: 0:00:37.307804
+INFO:platypus.core:1.6315708924084902: 3288
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3288, Elapsed Time: 0:00:38.955167
+INFO:platypus.core:1.6572934333235025: 3434
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3434, Elapsed Time: 0:00:40.629568
+INFO:platypus.core:1.620300529524684: 3577
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3577, Elapsed Time: 0:00:42.266515
+INFO:platypus.core:1.5869472483173013: 3722
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3722, Elapsed Time: 0:00:43.870062
+INFO:platypus.core:1.6831803964450955: 3869
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3869, Elapsed Time: 0:00:45.569829
+INFO:platypus.core:1.7219944084063172: 4014
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4014, Elapsed Time: 0:00:47.308501
+INFO:platypus.core:1.6679495628923178: 4158
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4158, Elapsed Time: 0:00:48.995289
+INFO:platypus.core:1.6343905236572027: 4306
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4306, Elapsed Time: 0:00:50.647895
+INFO:platypus.core:1.5992780858650804: 4451
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4451, Elapsed Time: 0:00:52.263710
+INFO:platypus.core:1.6270194640383124: 4596
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4596, Elapsed Time: 0:00:53.908889
+INFO:platypus.core:1.6047832779586315: 4740
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4740, Elapsed Time: 0:00:55.530020
+INFO:platypus.core:1.669370730407536: 4887
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4887, Elapsed Time: 0:00:57.217587
+INFO:platypus.core:1.6661728685721755: 5032
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5032, Elapsed Time: 0:00:58.901014
+INFO:platypus.core:1.5389942564070225: 5175
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5175, Elapsed Time: 0:01:00.457976
+INFO:platypus.core:1.6607916383072734: 5320
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5320, Elapsed Time: 0:01:02.136599
+INFO:platypus.core:1.643069594167173: 5463
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5463, Elapsed Time: 0:01:03.796571
+INFO:platypus.core:1.484527101740241: 5603
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5603, Elapsed Time: 0:01:05.296946
+INFO:platypus.core:1.6166697572916746: 5749
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5749, Elapsed Time: 0:01:06.931843
+INFO:platypus.core:1.715100135654211: 5894
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5894, Elapsed Time: 0:01:08.663694
+INFO:platypus.core:1.536424302496016: 6039
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6039, Elapsed Time: 0:01:10.218774
+INFO:platypus.core:1.6696427334100008: 6186
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6186, Elapsed Time: 0:01:11.906409
+INFO:platypus.core:1.5297007774934173: 6329
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6329, Elapsed Time: 0:01:13.452908
+INFO:platypus.core:1.548326944001019: 6471
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6471, Elapsed Time: 0:01:15.019234
+INFO:platypus.core:1.545586078427732: 6614
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6614, Elapsed Time: 0:01:16.581777
+INFO:platypus.core:1.6556232906877995: 6759
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6759, Elapsed Time: 0:01:18.255327
+INFO:platypus.core:1.6733305379748344: 6905
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6905, Elapsed Time: 0:01:19.943927
+INFO:platypus.core:1.6042764643207192: 7049
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7049, Elapsed Time: 0:01:21.565606
+INFO:platypus.core:1.6911381483078003: 7196
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7196, Elapsed Time: 0:01:23.272328
+INFO:platypus.core:1.551821006461978: 7340
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7340, Elapsed Time: 0:01:24.842318
+INFO:platypus.core:1.7047711331397295: 7488
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7488, Elapsed Time: 0:01:26.564547
+INFO:platypus.core:1.6045513888821006: 7630
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7630, Elapsed Time: 0:01:28.185525
+INFO:platypus.core:1.6531472774222493: 7776
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7776, Elapsed Time: 0:01:29.857668
+INFO:platypus.core:1.5755815180018544: 7920
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7920, Elapsed Time: 0:01:31.449936
+INFO:platypus.core:1.7207211358472705: 8069
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8069, Elapsed Time: 0:01:33.188808
+INFO:platypus.core:1.5876159146428108: 8213
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8213, Elapsed Time: 0:01:34.796108
+INFO:platypus.core:1.6867523724213243: 8357
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8357, Elapsed Time: 0:01:36.499819
+INFO:platypus.core:1.6974036917090416: 8506
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8506, Elapsed Time: 0:01:38.214301
+INFO:platypus.core:1.4828618234023452: 8646
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8646, Elapsed Time: 0:01:39.714473
+INFO:platypus.core:1.534167024306953: 8790
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8790, Elapsed Time: 0:01:41.266113
+INFO:platypus.core:1.6228213617578149: 8934
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8934, Elapsed Time: 0:01:42.905169
+INFO:platypus.core:1.5171800814568996: 9075
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9075, Elapsed Time: 0:01:44.438910
+INFO:platypus.core:1.6597619112581015: 9218
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9218, Elapsed Time: 0:01:46.115848
+INFO:platypus.core:1.7664557239040732: 9364
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9364, Elapsed Time: 0:01:47.899904
+INFO:platypus.core:1.6704787975177169: 9510
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9510, Elapsed Time: 0:01:49.587178
+INFO:platypus.core:1.5690964302048087: 9652
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9652, Elapsed Time: 0:01:51.173326
+INFO:platypus.core:1.6922226948663592: 9797
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9797, Elapsed Time: 0:01:52.881445
+INFO:platypus.core:1.6612227503210306: 9943
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9943, Elapsed Time: 0:01:54.559531
+INFO:platypus.core:1.4287547329440713: 10084
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 10084, Elapsed Time: 0:01:56.004858
+INFO:Platypus:SingleObjectiveBorgWithArchive finished; Total NFE: 10084, Elapsed Time: 0:01:56.005275
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:terminating pool
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:pool started with 48 workers
+INFO:EMA.ema_workbench.em_framework.optimization:pruning: {city}
+INFO:Platypus:SingleObjectiveBorgWithArchive starting
+INFO:platypus.core:0.1704081380739808: 100
+INFO:platypus.core:0.3015946885570884: 243
+INFO:platypus.core:0.21582516562193632: 389
+INFO:platypus.core:0.1852169670164585: 531
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 531, Elapsed Time: 0:00:00.917500
+INFO:platypus.core:0.20064119808375835: 676
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 676, Elapsed Time: 0:00:01.133370
+INFO:platypus.core:0.20617998018860817: 819
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 819, Elapsed Time: 0:00:01.354608
+INFO:platypus.core:0.216600158251822: 966
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 966, Elapsed Time: 0:00:01.584722
+INFO:platypus.core:0.20620343647897243: 1110
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1110, Elapsed Time: 0:00:01.805828
+INFO:platypus.core:0.20557102002203465: 1250
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1250, Elapsed Time: 0:00:02.025768
+INFO:platypus.core:0.21589019615203142: 1396
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1396, Elapsed Time: 0:00:02.256181
+INFO:platypus.core:0.2312465887516737: 1544
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1544, Elapsed Time: 0:00:02.501841
+INFO:platypus.core:0.21550428681075573: 1689
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1689, Elapsed Time: 0:00:02.732295
+INFO:platypus.core:0.214265625923872: 1836
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1836, Elapsed Time: 0:00:02.959829
+INFO:platypus.core:0.21176100242882967: 1980
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1980, Elapsed Time: 0:00:03.187632
+INFO:platypus.core:0.2152315117418766: 2125
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2125, Elapsed Time: 0:00:03.417494
+INFO:platypus.core:0.1897986251860857: 2268
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2268, Elapsed Time: 0:00:03.621056
+INFO:platypus.core:0.212090571410954: 2412
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2412, Elapsed Time: 0:00:03.848158
+INFO:platypus.core:0.21513607166707516: 2557
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2557, Elapsed Time: 0:00:04.077294
+INFO:platypus.core:0.21665426902472973: 2704
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2704, Elapsed Time: 0:00:04.308336
+INFO:platypus.core:0.18697688076645136: 2846
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2846, Elapsed Time: 0:00:04.507864
+INFO:platypus.core:0.1986572714522481: 2990
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2990, Elapsed Time: 0:00:04.720850
+INFO:platypus.core:0.20684626139700413: 3135
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3135, Elapsed Time: 0:00:04.941438
+INFO:platypus.core:0.20091862510889769: 3278
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3278, Elapsed Time: 0:00:05.157472
+INFO:platypus.core:0.20729959849268198: 3423
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3423, Elapsed Time: 0:00:05.378853
+INFO:platypus.core:0.2130058091133833: 3568
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3568, Elapsed Time: 0:00:05.606485
+INFO:platypus.core:0.18682470731437206: 3709
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3709, Elapsed Time: 0:00:05.805630
+INFO:platypus.core:0.20315082091838121: 3851
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3851, Elapsed Time: 0:00:06.022622
+INFO:platypus.core:0.23104811552911997: 3996
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3996, Elapsed Time: 0:00:06.268404
+INFO:platypus.core:0.21828838158398867: 4143
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4143, Elapsed Time: 0:00:06.499822
+INFO:platypus.core:0.21397139877080917: 4286
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4286, Elapsed Time: 0:00:06.726949
+INFO:platypus.core:0.218742273747921: 4432
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4432, Elapsed Time: 0:00:06.959736
+INFO:platypus.core:0.2171306973323226: 4579
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4579, Elapsed Time: 0:00:07.191049
+INFO:platypus.core:0.21570503525435925: 4725
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4725, Elapsed Time: 0:00:07.419855
+INFO:platypus.core:0.21265425253659487: 4870
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4870, Elapsed Time: 0:00:07.646604
+INFO:platypus.core:0.21501689217984676: 5017
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5017, Elapsed Time: 0:00:07.875554
+INFO:platypus.core:0.20389375276863575: 5160
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5160, Elapsed Time: 0:00:08.093801
+INFO:platypus.core:0.19387799315154552: 5304
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5304, Elapsed Time: 0:00:08.301555
+INFO:platypus.core:0.19430214911699295: 5442
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5442, Elapsed Time: 0:00:08.508816
+INFO:platypus.core:0.21427637431770563: 5587
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5587, Elapsed Time: 0:00:08.737835
+INFO:platypus.core:0.21321106050163507: 5733
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5733, Elapsed Time: 0:00:08.966103
+INFO:platypus.core:0.20629259943962097: 5878
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5878, Elapsed Time: 0:00:09.186170
+INFO:platypus.core:0.2161672879010439: 6025
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6025, Elapsed Time: 0:00:09.415870
+INFO:platypus.core:0.21344528440386057: 6172
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6172, Elapsed Time: 0:00:09.643990
+INFO:platypus.core:0.21188047621399164: 6317
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6317, Elapsed Time: 0:00:09.870447
+INFO:platypus.core:0.21063226368278265: 6462
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6462, Elapsed Time: 0:00:10.094604
+INFO:platypus.core:0.23047029878944159: 6609
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6609, Elapsed Time: 0:00:10.339248
+INFO:platypus.core:0.21572510711848736: 6757
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6757, Elapsed Time: 0:00:10.569300
+INFO:platypus.core:0.22011826373636723: 6902
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6902, Elapsed Time: 0:00:10.804677
+INFO:platypus.core:0.20919224247336388: 7046
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7046, Elapsed Time: 0:00:11.027009
+INFO:platypus.core:0.1911511281505227: 7186
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7186, Elapsed Time: 0:00:11.231489
+INFO:platypus.core:0.21234846115112305: 7329
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7329, Elapsed Time: 0:00:11.457696
+INFO:platypus.core:0.2119757952168584: 7472
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7472, Elapsed Time: 0:00:11.683779
+INFO:platypus.core:0.20845418889075518: 7618
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7618, Elapsed Time: 0:00:11.906591
+INFO:platypus.core:0.21205692552030087: 7762
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7762, Elapsed Time: 0:00:12.132635
+INFO:platypus.core:0.2102870224043727: 7903
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7903, Elapsed Time: 0:00:12.357442
+INFO:platypus.core:0.21374458819627762: 8049
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8049, Elapsed Time: 0:00:12.584623
+INFO:platypus.core:0.2144986167550087: 8194
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8194, Elapsed Time: 0:00:12.813858
+INFO:platypus.core:0.21708883717656136: 8342
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8342, Elapsed Time: 0:00:13.045005
+INFO:platypus.core:0.21231970842927694: 8485
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8485, Elapsed Time: 0:00:13.273091
+INFO:platypus.core:0.2047463357448578: 8632
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8632, Elapsed Time: 0:00:13.490865
+INFO:platypus.core:0.2117929384112358: 8777
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8777, Elapsed Time: 0:00:13.717149
+INFO:platypus.core:0.21044517401605844: 8919
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8919, Elapsed Time: 0:00:13.941571
+INFO:platypus.core:0.20890257321298122: 9060
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9060, Elapsed Time: 0:00:14.162840
+INFO:platypus.core:0.2133082766085863: 9208
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9208, Elapsed Time: 0:00:14.391200
+INFO:platypus.core:0.21560443192720413: 9357
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9357, Elapsed Time: 0:00:14.621289
+INFO:platypus.core:0.2148345997557044: 9505
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9505, Elapsed Time: 0:00:14.850881
+INFO:platypus.core:0.212105019018054: 9650
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9650, Elapsed Time: 0:00:15.076954
+INFO:platypus.core:0.21054802555590868: 9797
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9797, Elapsed Time: 0:00:15.301595
+INFO:platypus.core:0.2110618632286787: 9942
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9942, Elapsed Time: 0:00:15.526132
+INFO:platypus.core:0.21387381851673126: 10085
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 10085, Elapsed Time: 0:00:15.753077
+INFO:Platypus:SingleObjectiveBorgWithArchive finished; Total NFE: 10085, Elapsed Time: 0:00:15.753214
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:terminating pool
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:pool started with 48 workers
+INFO:EMA.ema_workbench.em_framework.optimization:pruning: {city}
+INFO:Platypus:SingleObjectiveBorgWithArchive starting
+INFO:platypus.core:0.35372201912105083: 100
+INFO:platypus.core:0.4518915619701147: 247
+INFO:platypus.core:0.4449172466993332: 392
+INFO:platypus.core:0.4529964532703161: 539
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 539, Elapsed Time: 0:00:01.755772
+INFO:platypus.core:0.4483346790075302: 684
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 684, Elapsed Time: 0:00:02.221050
+INFO:platypus.core:0.3858650280162692: 824
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 824, Elapsed Time: 0:00:02.624640
+INFO:platypus.core:0.45033222809433937: 971
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 971, Elapsed Time: 0:00:03.092088
+INFO:platypus.core:0.37721086479723454: 1110
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1110, Elapsed Time: 0:00:03.486475
+INFO:platypus.core:0.6546971080824733: 1255
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1255, Elapsed Time: 0:00:04.158770
+INFO:platypus.core:0.5352130429819226: 1403
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1403, Elapsed Time: 0:00:04.709878
+INFO:platypus.core:0.46736120991408825: 1549
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1549, Elapsed Time: 0:00:05.195089
+INFO:platypus.core:0.45281863026320934: 1695
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1695, Elapsed Time: 0:00:05.666152
+INFO:platypus.core:0.45832060370594263: 1841
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1841, Elapsed Time: 0:00:06.140280
+INFO:platypus.core:0.4558243006467819: 1988
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1988, Elapsed Time: 0:00:06.614572
+INFO:platypus.core:0.5554050300270319: 2132
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2132, Elapsed Time: 0:00:07.186826
+INFO:platypus.core:0.4894657162949443: 2273
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2273, Elapsed Time: 0:00:07.694014
+INFO:platypus.core:0.45195905212312937: 2419
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2419, Elapsed Time: 0:00:08.164415
+INFO:platypus.core:0.45080404076725245: 2565
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2565, Elapsed Time: 0:00:08.632693
+INFO:platypus.core:0.45965786278247833: 2713
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2713, Elapsed Time: 0:00:09.109175
+INFO:platypus.core:0.45242762845009565: 2859
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2859, Elapsed Time: 0:00:09.579770
+INFO:platypus.core:0.4556055208668113: 3007
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3007, Elapsed Time: 0:00:10.054484
+INFO:platypus.core:0.48826474510133266: 3155
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3155, Elapsed Time: 0:00:10.559672
+INFO:platypus.core:0.5206230385228992: 3302
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3302, Elapsed Time: 0:00:11.098256
+INFO:platypus.core:0.5419267974793911: 3445
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3445, Elapsed Time: 0:00:11.656996
+INFO:platypus.core:0.5124898916110396: 3587
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3587, Elapsed Time: 0:00:12.187049
+INFO:platypus.core:0.4478728249669075: 3728
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3728, Elapsed Time: 0:00:12.650888
+INFO:platypus.core:0.4518094789236784: 3872
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3872, Elapsed Time: 0:00:13.119440
+INFO:platypus.core:0.4544098787009716: 4017
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4017, Elapsed Time: 0:00:13.590526
+INFO:platypus.core:0.4216460445895791: 4159
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4159, Elapsed Time: 0:00:14.029454
+INFO:platypus.core:0.41673638205975294: 4300
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4300, Elapsed Time: 0:00:14.463603
+INFO:platypus.core:0.4682016996666789: 4446
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4446, Elapsed Time: 0:00:14.948619
+INFO:platypus.core:0.46829671785235405: 4594
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4594, Elapsed Time: 0:00:15.434405
+INFO:platypus.core:0.47424543742090464: 4742
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4742, Elapsed Time: 0:00:15.925882
+INFO:platypus.core:0.4631075356155634: 4888
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4888, Elapsed Time: 0:00:16.405813
+INFO:platypus.core:0.47238957323133945: 5034
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5034, Elapsed Time: 0:00:16.894623
+INFO:platypus.core:0.4493647553026676: 5175
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5175, Elapsed Time: 0:00:17.359516
+INFO:platypus.core:0.5303909825161099: 5323
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5323, Elapsed Time: 0:00:17.907998
+INFO:platypus.core:0.46323949471116066: 5467
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5467, Elapsed Time: 0:00:18.387199
+INFO:platypus.core:0.4760299436748028: 5611
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5611, Elapsed Time: 0:00:18.881123
+INFO:platypus.core:0.5070852926000953: 5753
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5753, Elapsed Time: 0:00:19.404830
+INFO:platypus.core:0.46188192255795: 5900
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5900, Elapsed Time: 0:00:19.884232
+INFO:platypus.core:0.45827335864305496: 6046
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6046, Elapsed Time: 0:00:20.360046
+INFO:platypus.core:0.5119325825944543: 6192
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6192, Elapsed Time: 0:00:20.888115
+INFO:platypus.core:0.5285355374217033: 6338
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6338, Elapsed Time: 0:00:21.435194
+INFO:platypus.core:0.46941667329519987: 6486
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6486, Elapsed Time: 0:00:21.922470
+INFO:platypus.core:0.48398821149021387: 6632
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6632, Elapsed Time: 0:00:22.423664
+INFO:platypus.core:0.464113793335855: 6779
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6779, Elapsed Time: 0:00:22.906751
+INFO:platypus.core:0.5287274206057191: 6927
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6927, Elapsed Time: 0:00:23.452617
+INFO:platypus.core:0.5290220743045211: 7072
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7072, Elapsed Time: 0:00:23.997551
+INFO:platypus.core:0.5286431470885873: 7220
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7220, Elapsed Time: 0:00:24.544884
+INFO:platypus.core:0.46200989838689566: 7366
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7366, Elapsed Time: 0:00:25.024206
+INFO:platypus.core:0.5265618357807398: 7511
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7511, Elapsed Time: 0:00:25.565891
+INFO:platypus.core:0.4296638034284115: 7652
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7652, Elapsed Time: 0:00:26.010999
+INFO:platypus.core:0.4522458044812083: 7796
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7796, Elapsed Time: 0:00:26.480393
+INFO:platypus.core:0.451223561540246: 7939
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7939, Elapsed Time: 0:00:26.948242
+INFO:platypus.core:0.5252984520047903: 8087
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8087, Elapsed Time: 0:00:27.491685
+INFO:platypus.core:0.4621886732056737: 8234
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8234, Elapsed Time: 0:00:27.971800
+INFO:platypus.core:0.5320735033601522: 8378
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8378, Elapsed Time: 0:00:28.521349
+INFO:platypus.core:0.44837810657918453: 8518
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8518, Elapsed Time: 0:00:28.986446
+INFO:platypus.core:0.4617918198928237: 8666
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8666, Elapsed Time: 0:00:29.465432
+INFO:platypus.core:0.4420881159603596: 8807
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8807, Elapsed Time: 0:00:29.924849
+INFO:platypus.core:0.4634329527616501: 8954
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8954, Elapsed Time: 0:00:30.405605
+INFO:platypus.core:0.48390225879848003: 9104
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9104, Elapsed Time: 0:00:30.906829
+INFO:platypus.core:0.5294244503602386: 9248
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9248, Elapsed Time: 0:00:31.452620
+INFO:platypus.core:0.5033430196344852: 9393
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9393, Elapsed Time: 0:00:31.974706
+INFO:platypus.core:0.597245080396533: 9538
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9538, Elapsed Time: 0:00:32.589385
+INFO:platypus.core:0.4446429843083024: 9680
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9680, Elapsed Time: 0:00:33.051744
+INFO:platypus.core:0.45893055479973555: 9825
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9825, Elapsed Time: 0:00:33.527460
+INFO:platypus.core:0.514825951308012: 9969
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9969, Elapsed Time: 0:00:34.059494
+INFO:platypus.core:0.5096528753638268: 10107
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 10107, Elapsed Time: 0:00:34.587127
+INFO:Platypus:SingleObjectiveBorgWithArchive finished; Total NFE: 10107, Elapsed Time: 0:00:34.587388
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:terminating pool
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:pool started with 48 workers
+INFO:EMA.ema_workbench.em_framework.optimization:pruning: {city}
+INFO:Platypus:SingleObjectiveBorgWithArchive starting
+INFO:platypus.core:0.5490470454096794: 100
+INFO:platypus.core:0.7341313818469644: 249
+INFO:platypus.core:0.9732702095061541: 394
+INFO:platypus.core:0.961074709892273: 541
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 541, Elapsed Time: 0:00:03.269451
+INFO:platypus.core:0.6986545268446207: 683
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 683, Elapsed Time: 0:00:03.986163
+INFO:platypus.core:0.7210660837590694: 827
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 827, Elapsed Time: 0:00:04.724590
+INFO:platypus.core:0.7975959414616227: 972
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 972, Elapsed Time: 0:00:05.538974
+INFO:platypus.core:0.7538249976933002: 1116
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1116, Elapsed Time: 0:00:06.310019
+INFO:platypus.core:0.7201880039647222: 1260
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1260, Elapsed Time: 0:00:07.047446
+INFO:platypus.core:0.7835181169211864: 1404
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1404, Elapsed Time: 0:00:07.847855
+INFO:platypus.core:0.8515854012221098: 1547
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1547, Elapsed Time: 0:00:08.716059
+INFO:platypus.core:0.7231598580256104: 1692
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1692, Elapsed Time: 0:00:09.456807
+INFO:platypus.core:0.7798423822969198: 1838
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1838, Elapsed Time: 0:00:10.252084
+INFO:platypus.core:0.7996814604848623: 1981
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1981, Elapsed Time: 0:00:11.068857
+INFO:platypus.core:0.7554918024688959: 2125
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2125, Elapsed Time: 0:00:11.841050
+INFO:platypus.core:0.7631483934819698: 2269
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2269, Elapsed Time: 0:00:12.619820
+INFO:platypus.core:0.8116724258288741: 2417
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2417, Elapsed Time: 0:00:13.450208
+INFO:platypus.core:0.7886219685897231: 2560
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2560, Elapsed Time: 0:00:14.255818
+INFO:platypus.core:0.7584740202873945: 2702
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2702, Elapsed Time: 0:00:15.028600
+INFO:platypus.core:0.6957657746970654: 2845
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2845, Elapsed Time: 0:00:15.742861
+INFO:platypus.core:0.9305516295135021: 2992
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2992, Elapsed Time: 0:00:16.690466
+INFO:platypus.core:0.8874423708766699: 3142
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3142, Elapsed Time: 0:00:17.595706
+INFO:platypus.core:0.7986142104491591: 3287
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3287, Elapsed Time: 0:00:18.412613
+INFO:platypus.core:0.7909837355837226: 3430
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3430, Elapsed Time: 0:00:19.219898
+INFO:platypus.core:0.712263323366642: 3573
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3573, Elapsed Time: 0:00:19.949368
+INFO:platypus.core:0.7312042322009802: 3718
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3718, Elapsed Time: 0:00:20.697529
+INFO:platypus.core:0.7778341369703412: 3862
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3862, Elapsed Time: 0:00:21.493193
+INFO:platypus.core:0.7203894583508372: 4008
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4008, Elapsed Time: 0:00:22.232751
+INFO:platypus.core:0.707563309930265: 4153
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4153, Elapsed Time: 0:00:22.956707
+INFO:platypus.core:0.7898353645578027: 4300
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4300, Elapsed Time: 0:00:23.763711
+INFO:platypus.core:0.7365720439702272: 4446
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4446, Elapsed Time: 0:00:24.517506
+INFO:platypus.core:0.7085662027820945: 4591
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4591, Elapsed Time: 0:00:25.243226
+INFO:platypus.core:0.7246633898466825: 4738
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4738, Elapsed Time: 0:00:25.985232
+INFO:platypus.core:0.7100554499775171: 4880
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4880, Elapsed Time: 0:00:26.711498
+INFO:platypus.core:0.661470384337008: 5021
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5021, Elapsed Time: 0:00:27.391957
+INFO:platypus.core:0.6623954335227609: 5161
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5161, Elapsed Time: 0:00:28.071322
+INFO:platypus.core:0.6745613208040595: 5304
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5304, Elapsed Time: 0:00:28.763132
+INFO:platypus.core:0.7130024619400501: 5448
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5448, Elapsed Time: 0:00:29.493759
+INFO:platypus.core:0.7361208507791162: 5595
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5595, Elapsed Time: 0:00:30.247324
+INFO:platypus.core:0.7145964289084077: 5738
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5738, Elapsed Time: 0:00:30.978456
+INFO:platypus.core:0.7257573809474707: 5883
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5883, Elapsed Time: 0:00:31.723236
+INFO:platypus.core:0.7144588157534599: 6029
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6029, Elapsed Time: 0:00:32.454819
+INFO:platypus.core:0.7155041350051761: 6171
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6171, Elapsed Time: 0:00:33.187677
+INFO:platypus.core:0.7377629075199366: 6313
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6313, Elapsed Time: 0:00:33.940403
+INFO:platypus.core:0.7309279162436724: 6460
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6460, Elapsed Time: 0:00:34.689610
+INFO:platypus.core:0.7266002194955945: 6609
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6609, Elapsed Time: 0:00:35.433737
+INFO:platypus.core:0.7196208713576198: 6754
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6754, Elapsed Time: 0:00:36.171546
+INFO:platypus.core:0.6595067316666245: 6896
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6896, Elapsed Time: 0:00:36.847838
+INFO:platypus.core:0.7216973220929503: 7044
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7044, Elapsed Time: 0:00:37.585158
+INFO:platypus.core:0.8902610233053565: 7188
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7188, Elapsed Time: 0:00:38.492326
+INFO:platypus.core:0.7232568766921759: 7332
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7332, Elapsed Time: 0:00:39.232700
+INFO:platypus.core:0.732448473572731: 7478
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7478, Elapsed Time: 0:00:39.982808
+INFO:platypus.core:0.7352725602686405: 7624
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7624, Elapsed Time: 0:00:40.736480
+INFO:platypus.core:0.7438597399741411: 7771
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7771, Elapsed Time: 0:00:41.498349
+INFO:platypus.core:0.6634902553632855: 7913
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7913, Elapsed Time: 0:00:42.177750
+INFO:platypus.core:0.7247848613187671: 8058
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8058, Elapsed Time: 0:00:42.920022
+INFO:platypus.core:0.772760464809835: 8203
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8203, Elapsed Time: 0:00:43.708341
+INFO:platypus.core:0.7215420678257942: 8349
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8349, Elapsed Time: 0:00:44.447012
+INFO:platypus.core:0.7241633720695972: 8495
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8495, Elapsed Time: 0:00:45.188351
+INFO:platypus.core:0.794318319298327: 8642
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8642, Elapsed Time: 0:00:46.000710
+INFO:platypus.core:0.7177270203828812: 8788
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8788, Elapsed Time: 0:00:46.735815
+INFO:platypus.core:0.8010042728856206: 8935
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8935, Elapsed Time: 0:00:47.553543
+INFO:platypus.core:0.7868088148534298: 9083
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9083, Elapsed Time: 0:00:48.357687
+INFO:platypus.core:0.6743334122002125: 9227
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9227, Elapsed Time: 0:00:49.048254
+INFO:platypus.core:0.7226934460923076: 9372
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9372, Elapsed Time: 0:00:49.789972
+INFO:platypus.core:0.7260443652048707: 9518
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9518, Elapsed Time: 0:00:50.534450
+INFO:platypus.core:0.7840787013992667: 9665
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9665, Elapsed Time: 0:00:51.337061
+INFO:platypus.core:0.8075814926996827: 9814
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9814, Elapsed Time: 0:00:52.161791
+INFO:platypus.core:0.7412622142583132: 9959
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9959, Elapsed Time: 0:00:52.920338
+INFO:platypus.core:0.824873935431242: 10105
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 10105, Elapsed Time: 0:00:53.764018
+INFO:Platypus:SingleObjectiveBorgWithArchive finished; Total NFE: 10105, Elapsed Time: 0:00:53.764305
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:terminating pool
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:pool started with 48 workers
+INFO:EMA.ema_workbench.em_framework.optimization:pruning: {city}
+INFO:Platypus:SingleObjectiveBorgWithArchive starting
+INFO:platypus.core:0.3274482497945428: 100
+INFO:platypus.core:0.5227363351732492: 247
+INFO:platypus.core:0.4787715459242463: 395
+INFO:platypus.core:0.4488157983869314: 539
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 539, Elapsed Time: 0:00:01.828670
+INFO:platypus.core:0.43980828020721674: 686
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 686, Elapsed Time: 0:00:02.284988
+INFO:platypus.core:0.43403948843479156: 831
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 831, Elapsed Time: 0:00:02.736576
+INFO:platypus.core:0.4684196198359132: 977
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 977, Elapsed Time: 0:00:03.222642
+INFO:platypus.core:0.5817665681242943: 1124
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1124, Elapsed Time: 0:00:03.819752
+INFO:platypus.core:0.6159581365063787: 1270
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1270, Elapsed Time: 0:00:04.453094
+INFO:platypus.core:0.43155917432159185: 1414
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1414, Elapsed Time: 0:00:04.902059
+INFO:platypus.core:0.42809590324759483: 1562
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1562, Elapsed Time: 0:00:05.348786
+INFO:platypus.core:0.39389431569725275: 1704
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1704, Elapsed Time: 0:00:05.758903
+INFO:platypus.core:0.4230211852118373: 1850
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1850, Elapsed Time: 0:00:06.198873
+INFO:platypus.core:0.4256508890539408: 1995
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1995, Elapsed Time: 0:00:06.641982
+INFO:platypus.core:0.5535338874906301: 2141
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2141, Elapsed Time: 0:00:07.210161
+INFO:platypus.core:0.5489079225808382: 2288
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2288, Elapsed Time: 0:00:07.776426
+INFO:platypus.core:0.4346352247521281: 2436
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2436, Elapsed Time: 0:00:08.228865
+INFO:platypus.core:0.43422520998865366: 2583
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2583, Elapsed Time: 0:00:08.681180
+INFO:platypus.core:0.43181015364825726: 2727
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2727, Elapsed Time: 0:00:09.130805
+INFO:platypus.core:0.4331176867708564: 2871
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2871, Elapsed Time: 0:00:09.579706
+INFO:platypus.core:0.5367115186527371: 3014
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3014, Elapsed Time: 0:00:10.131694
+INFO:platypus.core:0.4806902492418885: 3160
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3160, Elapsed Time: 0:00:10.629325
+INFO:platypus.core:0.48479598481208086: 3306
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3306, Elapsed Time: 0:00:11.130592
+INFO:platypus.core:0.45751482527703047: 3452
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3452, Elapsed Time: 0:00:11.606747
+INFO:platypus.core:0.49191182386130095: 3599
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3599, Elapsed Time: 0:00:12.117302
+INFO:platypus.core:0.4947540983557701: 3748
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3748, Elapsed Time: 0:00:12.627846
+INFO:platypus.core:0.5086466139182448: 3895
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3895, Elapsed Time: 0:00:13.153897
+INFO:platypus.core:0.4962604893371463: 4041
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4041, Elapsed Time: 0:00:13.665661
+INFO:platypus.core:0.48978505842387676: 4184
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4184, Elapsed Time: 0:00:14.171645
+INFO:platypus.core:0.5040508331730962: 4332
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4332, Elapsed Time: 0:00:14.692864
+INFO:platypus.core:0.4394482830539346: 4477
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4477, Elapsed Time: 0:00:15.148803
+INFO:platypus.core:0.43032182939350605: 4624
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4624, Elapsed Time: 0:00:15.597985
+INFO:platypus.core:0.431457694619894: 4770
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4770, Elapsed Time: 0:00:16.046531
+INFO:platypus.core:0.42055731173604727: 4912
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4912, Elapsed Time: 0:00:16.483302
+INFO:platypus.core:0.4945478858426213: 5059
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5059, Elapsed Time: 0:00:16.995097
+INFO:platypus.core:0.446823351085186: 5206
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5206, Elapsed Time: 0:00:17.458515
+INFO:platypus.core:0.43206373788416386: 5354
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5354, Elapsed Time: 0:00:17.907994
+INFO:platypus.core:0.4810131387785077: 5499
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5499, Elapsed Time: 0:00:18.405023
+INFO:platypus.core:0.500873071141541: 5644
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5644, Elapsed Time: 0:00:18.922828
+INFO:platypus.core:0.49380473233759403: 5787
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5787, Elapsed Time: 0:00:19.434090
+INFO:platypus.core:0.4380144886672497: 5926
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5926, Elapsed Time: 0:00:19.888640
+INFO:platypus.core:0.4410394970327616: 6074
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6074, Elapsed Time: 0:00:20.346267
+INFO:platypus.core:0.43437354546040297: 6222
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6222, Elapsed Time: 0:00:20.797038
+INFO:platypus.core:0.4232484484091401: 6366
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6366, Elapsed Time: 0:00:21.238395
+INFO:platypus.core:0.4343236843124032: 6511
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6511, Elapsed Time: 0:00:21.688951
+INFO:platypus.core:0.4504351709038019: 6655
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6655, Elapsed Time: 0:00:22.157930
+INFO:platypus.core:0.42599530424922705: 6799
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6799, Elapsed Time: 0:00:22.599837
+INFO:platypus.core:0.430123521015048: 6942
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6942, Elapsed Time: 0:00:23.046279
+INFO:platypus.core:0.48591287806630135: 7085
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7085, Elapsed Time: 0:00:23.547170
+INFO:platypus.core:0.4367358088493347: 7233
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7233, Elapsed Time: 0:00:24.002089
+INFO:platypus.core:0.46823893673717976: 7378
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7378, Elapsed Time: 0:00:24.488185
+INFO:platypus.core:0.4331388920545578: 7521
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7521, Elapsed Time: 0:00:24.937850
+INFO:platypus.core:0.4539349898695946: 7664
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7664, Elapsed Time: 0:00:25.409240
+INFO:platypus.core:0.492518724873662: 7813
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7813, Elapsed Time: 0:00:25.916667
+INFO:platypus.core:0.42893026303499937: 7958
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7958, Elapsed Time: 0:00:26.362072
+INFO:platypus.core:0.442035642452538: 8102
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8102, Elapsed Time: 0:00:26.821056
+INFO:platypus.core:0.4374576499685645: 8248
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8248, Elapsed Time: 0:00:27.274634
+INFO:platypus.core:0.5068918140605092: 8393
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8393, Elapsed Time: 0:00:27.796500
+INFO:platypus.core:0.43028001859784126: 8542
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8542, Elapsed Time: 0:00:28.242708
+INFO:platypus.core:0.5727762933820486: 8685
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8685, Elapsed Time: 0:00:28.832730
+INFO:platypus.core:0.471002671867609: 8832
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8832, Elapsed Time: 0:00:29.318807
+INFO:platypus.core:0.4340190514922142: 8976
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8976, Elapsed Time: 0:00:29.771876
+INFO:platypus.core:0.43618136551231146: 9124
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9124, Elapsed Time: 0:00:30.227233
+INFO:platypus.core:0.5080800484865904: 9267
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9267, Elapsed Time: 0:00:30.751309
+INFO:platypus.core:0.46067051123827696: 9416
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9416, Elapsed Time: 0:00:31.228661
+INFO:platypus.core:0.46448998525738716: 9558
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9558, Elapsed Time: 0:00:31.709311
+INFO:platypus.core:0.44175388664007187: 9706
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9706, Elapsed Time: 0:00:32.168777
+INFO:platypus.core:0.4310041479766369: 9852
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9852, Elapsed Time: 0:00:32.620118
+INFO:platypus.core:0.4750509988516569: 9995
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9995, Elapsed Time: 0:00:33.113607
+INFO:platypus.core:0.48119670804589987: 10139
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 10139, Elapsed Time: 0:00:33.611617
+INFO:Platypus:SingleObjectiveBorgWithArchive finished; Total NFE: 10139, Elapsed Time: 0:00:33.611762
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:terminating pool
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:pool started with 48 workers
+INFO:EMA.ema_workbench.em_framework.optimization:pruning: {city}
+INFO:Platypus:SingleObjectiveBorgWithArchive starting
+INFO:platypus.core:1.2221694448962808: 100
+INFO:platypus.core:1.5784337455406785: 242
+INFO:platypus.core:1.8961572656407952: 390
+INFO:platypus.core:1.907791174016893: 538
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 538, Elapsed Time: 0:00:06.655675
+INFO:platypus.core:1.7084514079615474: 680
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 680, Elapsed Time: 0:00:08.381962
+INFO:platypus.core:1.741165867075324: 823
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 823, Elapsed Time: 0:00:10.136919
+INFO:platypus.core:2.0516660092398524: 965
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 965, Elapsed Time: 0:00:12.206049
+INFO:platypus.core:1.7195769753307104: 1106
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1106, Elapsed Time: 0:00:13.941658
+INFO:platypus.core:1.7949015852063894: 1253
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1253, Elapsed Time: 0:00:15.752117
+INFO:platypus.core:1.7953210705891252: 1395
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1395, Elapsed Time: 0:00:17.565316
+INFO:platypus.core:1.8560020187869668: 1539
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1539, Elapsed Time: 0:00:19.438637
+INFO:platypus.core:1.7969720987603068: 1683
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1683, Elapsed Time: 0:00:21.249266
+INFO:platypus.core:1.8391719618812203: 1829
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1829, Elapsed Time: 0:00:23.105324
+INFO:platypus.core:1.73344062641263: 1973
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 1973, Elapsed Time: 0:00:24.854128
+INFO:platypus.core:1.7844648323953152: 2118
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2118, Elapsed Time: 0:00:26.652678
+INFO:platypus.core:1.7856307895854115: 2264
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2264, Elapsed Time: 0:00:28.456820
+INFO:platypus.core:1.837503339163959: 2404
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2404, Elapsed Time: 0:00:30.309537
+INFO:platypus.core:1.7388550136238337: 2552
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2552, Elapsed Time: 0:00:32.066201
+INFO:platypus.core:1.726732300594449: 2696
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2696, Elapsed Time: 0:00:33.809366
+INFO:platypus.core:1.695278374478221: 2842
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2842, Elapsed Time: 0:00:35.520014
+INFO:platypus.core:1.7618351886048913: 2989
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 2989, Elapsed Time: 0:00:37.298871
+INFO:platypus.core:1.7186247687786818: 3130
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3130, Elapsed Time: 0:00:39.035513
+INFO:platypus.core:1.7698272000998259: 3278
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3278, Elapsed Time: 0:00:40.821347
+INFO:platypus.core:1.7094518700614572: 3427
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3427, Elapsed Time: 0:00:42.547009
+INFO:platypus.core:1.6965732173994184: 3573
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3573, Elapsed Time: 0:00:44.258858
+INFO:platypus.core:1.6878295689821243: 3717
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3717, Elapsed Time: 0:00:45.962298
+INFO:platypus.core:1.6821765312924981: 3861
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 3861, Elapsed Time: 0:00:47.660640
+INFO:platypus.core:1.7017283849418163: 4007
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4007, Elapsed Time: 0:00:49.379077
+INFO:platypus.core:1.691994140855968: 4152
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4152, Elapsed Time: 0:00:51.085753
+INFO:platypus.core:1.4394013993442059: 4294
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4294, Elapsed Time: 0:00:52.541577
+INFO:platypus.core:1.7482640808448195: 4444
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4444, Elapsed Time: 0:00:54.307824
+INFO:platypus.core:1.6977827306836843: 4590
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4590, Elapsed Time: 0:00:56.022398
+INFO:platypus.core:1.7524999836459756: 4738
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4738, Elapsed Time: 0:00:57.791065
+INFO:platypus.core:1.752999751828611: 4884
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 4884, Elapsed Time: 0:00:59.560330
+INFO:platypus.core:1.6378943715244532: 5027
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5027, Elapsed Time: 0:01:01.213847
+INFO:platypus.core:1.6985992165282369: 5173
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5173, Elapsed Time: 0:01:02.929808
+INFO:platypus.core:1.7228436646983027: 5316
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5316, Elapsed Time: 0:01:04.670458
+INFO:platypus.core:1.7019161703065038: 5462
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5462, Elapsed Time: 0:01:06.393437
+INFO:platypus.core:1.6033580927178264: 5606
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5606, Elapsed Time: 0:01:08.017435
+INFO:platypus.core:1.5362851126119494: 5748
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5748, Elapsed Time: 0:01:09.570036
+INFO:platypus.core:1.5807053372263908: 5889
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 5889, Elapsed Time: 0:01:11.165767
+INFO:platypus.core:1.694415019825101: 6033
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6033, Elapsed Time: 0:01:12.877116
+INFO:platypus.core:1.7343182368203998: 6183
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6183, Elapsed Time: 0:01:14.628699
+INFO:platypus.core:1.7009630454704165: 6329
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6329, Elapsed Time: 0:01:16.346651
+INFO:platypus.core:1.6963673001155257: 6474
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6474, Elapsed Time: 0:01:18.058245
+INFO:platypus.core:1.777231971733272: 6621
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6621, Elapsed Time: 0:01:19.852367
+INFO:platypus.core:1.673038044013083: 6764
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6764, Elapsed Time: 0:01:21.543491
+INFO:platypus.core:1.7345620933920145: 6912
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 6912, Elapsed Time: 0:01:23.294182
+INFO:platypus.core:1.7406246177852154: 7057
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7057, Elapsed Time: 0:01:25.052321
+INFO:platypus.core:1.7448424072936177: 7204
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7204, Elapsed Time: 0:01:26.813824
+INFO:platypus.core:1.7006033286452293: 7348
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7348, Elapsed Time: 0:01:28.531144
+INFO:platypus.core:1.712040632031858: 7492
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7492, Elapsed Time: 0:01:30.260536
+INFO:platypus.core:1.6760660111904144: 7637
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7637, Elapsed Time: 0:01:31.952831
+INFO:platypus.core:1.688397105783224: 7783
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7783, Elapsed Time: 0:01:33.656275
+INFO:platypus.core:1.7668104385957122: 7929
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 7929, Elapsed Time: 0:01:35.439642
+INFO:platypus.core:1.7015985557809472: 8077
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8077, Elapsed Time: 0:01:37.157552
+INFO:platypus.core:1.7127633709460497: 8223
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8223, Elapsed Time: 0:01:38.887297
+INFO:platypus.core:1.7040134891867638: 8368
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8368, Elapsed Time: 0:01:40.607152
+INFO:platypus.core:1.7380678728222847: 8518
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8518, Elapsed Time: 0:01:42.362552
+INFO:platypus.core:1.7475926354527473: 8666
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8666, Elapsed Time: 0:01:44.126297
+INFO:platypus.core:1.7288124775514007: 8814
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8814, Elapsed Time: 0:01:45.871644
+INFO:platypus.core:1.6715156426653266: 8957
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 8957, Elapsed Time: 0:01:47.558569
+INFO:platypus.core:1.692003471776843: 9100
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9100, Elapsed Time: 0:01:49.266672
+INFO:platypus.core:1.7568726791068912: 9248
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9248, Elapsed Time: 0:01:51.041217
+INFO:platypus.core:1.4594125133007765: 9385
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9385, Elapsed Time: 0:01:52.515185
+INFO:platypus.core:1.572606504894793: 9527
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9527, Elapsed Time: 0:01:54.102458
+INFO:platypus.core:1.4509807731956244: 9670
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9670, Elapsed Time: 0:01:55.569766
+INFO:platypus.core:1.740045073442161: 9817
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9817, Elapsed Time: 0:01:57.326950
+INFO:platypus.core:1.7181902630254626: 9963
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 9963, Elapsed Time: 0:01:59.063705
+INFO:platypus.core:1.7050951169803739: 10109
+INFO:Platypus:SingleObjectiveBorgWithArchive running; NFE Complete: 10109, Elapsed Time: 0:02:00.784736
+INFO:Platypus:SingleObjectiveBorgWithArchive finished; Total NFE: 10109, Elapsed Time: 0:02:00.785026
+INFO:EMA.ema_workbench.em_framework.futures_multiprocessing:terminating pool
